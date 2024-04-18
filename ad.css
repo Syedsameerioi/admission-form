@@ -3,12 +3,14 @@ body {
     background-color: rgb(34, 91, 99);
     text-transform: uppercase;
 }
- .main {
+
+.main {
     border: 5px solid black;
     border-radius: 15px;
     display: block;
     background-color: #9AC8CD;
- }
+}
+
 a {
     text-decoration: none;
 }
