@@ -1,12 +1,12 @@
 body {
     margin: 20px;
-    background-color: rgb(34, 91, 99);
+    background-color: black;
     text-transform: uppercase;
 }
 
 .main {
     border: 5px solid black;
-    border-radius: 15px;
+    border-radius: 25px;
     display: block;
     background-color: #9AC8CD;
 }
